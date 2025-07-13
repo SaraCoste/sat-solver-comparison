@@ -1,4 +1,3 @@
-python-sat
+python-sat[pblib,aiger]
 numpy
 matplotlib
-docker
