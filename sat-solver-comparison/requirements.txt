@@ -1,0 +1,4 @@
+python-sat
+numpy
+matplotlib
+docker
